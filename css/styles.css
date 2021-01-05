@@ -89,3 +89,9 @@ body{
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;}
+.box1{
+  widch:360px;
+  height:720px;
+  background-color:black;
+  margin:2px;
+}
